@@ -1,0 +1,2 @@
+C:\code\CPP\exercise04\x64\Debug\exercise04.exe
+C:\code\CPP\00exercise\exercise04\x64\Debug\exercise04.exe

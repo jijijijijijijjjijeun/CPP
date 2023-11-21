@@ -1,0 +1,2 @@
+C:\code\CPP\OpenCv\exercise06\x64\Debug\exercise06.exe
+C:\code\CPP\00exercise\exercise06\x64\Debug\exercise06.exe
