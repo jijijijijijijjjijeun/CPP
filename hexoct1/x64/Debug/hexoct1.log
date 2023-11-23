@@ -1,0 +1,5 @@
+﻿  hexoct1.cpp
+  hexoct2.cpp
+  코드를 생성하고 있습니다...
+hexoct2.obj : error LNK2005: main이(가) hexoct1.obj에 이미 정의되어 있습니다.
+C:\code\CPP\hexoct1\x64\Debug\hexoct1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
