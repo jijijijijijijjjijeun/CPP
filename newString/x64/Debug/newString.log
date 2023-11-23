@@ -1,0 +1,7 @@
+﻿  String.cpp
+C:\code\CPP\newString\String.cpp(28,34): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\CPP\newString\String.cpp(70,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\code\CPP\newString\String.cpp(76,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  newString.cpp
+  코드를 생성하고 있습니다...
+  newString.vcxproj -> C:\code\CPP\newString\x64\Debug\newString.exe
