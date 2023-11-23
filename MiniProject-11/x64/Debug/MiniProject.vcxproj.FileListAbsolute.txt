@@ -1,0 +1,3 @@
+C:\Code\CPP\MiniProject\x64\Debug\MiniProject.exe
+C:\code\CPP\hexoct1\MiniProject\x64\Debug\MiniProject.exe
+C:\code\CPP\MiniProject-11\x64\Debug\MiniProject.exe
