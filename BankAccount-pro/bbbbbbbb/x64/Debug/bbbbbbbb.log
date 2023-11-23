@@ -1,0 +1,11 @@
+﻿  BankAccount.cpp
+C:\code\CPP\bbbbbbbb\BankAccount.cpp(13,24): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\CPP\bbbbbbbb\BankAccount.cpp(38,24): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\CPP\bbbbbbbb\BankAccount.cpp(46,13): warning C4244: 'return': '__int64'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\CPP\bbbbbbbb\BankAccount.cpp(54,16): warning C4244: '초기화 중': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\CPP\bbbbbbbb\BankAccount.cpp(61,29): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\CPP\bbbbbbbb\BankAccount.cpp(156,35): warning C4244: '-=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\CPP\bbbbbbbb\BankAccount.cpp(257,29): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  bbbbbbbb.vcxproj -> C:\code\CPP\bbbbbbbb\x64\Debug\bbbbbbbb.exe

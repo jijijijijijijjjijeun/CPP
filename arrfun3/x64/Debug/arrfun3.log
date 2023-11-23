@@ -1,0 +1,2 @@
+﻿  arrfun3.cpp
+C:\code\CPP\arrfun3\arrfun3.cpp(61): error C4700: 초기화되지 않은 'i' 지역 변수를 사용했습니다.
