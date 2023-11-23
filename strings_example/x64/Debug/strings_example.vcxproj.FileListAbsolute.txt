@@ -1,0 +1,1 @@
+C:\code\CPP\strings_example\x64\Debug\strings_example.exe

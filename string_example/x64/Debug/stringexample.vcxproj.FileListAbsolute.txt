@@ -1,0 +1,2 @@
+C:\code\CPP\stringexample\x64\Debug\stringexample.exe
+C:\code\CPP\string_example\x64\Debug\stringexample.exe

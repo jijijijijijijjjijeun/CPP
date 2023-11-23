@@ -1,0 +1,9 @@
+﻿  structure_example.cpp
+C:\code\CPP\structure_example\structure_example.cpp(28,30): warning C4838: 'int'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\code\CPP\structure_example\structure_example.cpp(28,30): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\code\CPP\structure_example\structure_example.cpp(28,30): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\code\CPP\structure_example\structure_example.cpp(28,38): warning C4838: 'float'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\code\CPP\structure_example\structure_example.cpp(28,38): warning C4244: '초기화 중': 'float'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\CPP\structure_example\structure_example.cpp(28,45): warning C4838: 'double'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\code\CPP\structure_example\structure_example.cpp(28,45): warning C4244: '초기화 중': 'double'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  structure_example.vcxproj -> C:\code\CPP\structure_example\x64\Debug\structure_example.exe

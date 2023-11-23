@@ -1,0 +1,5 @@
+﻿  string.cpp
+C:\code\CPP\strings_example\string.cpp(26,29): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  strings_example.cpp
+C:\code\CPP\strings_example\strings_example.cpp(15,21): error C2676: 이항 '+': 'String'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+  코드를 생성하고 있습니다...
