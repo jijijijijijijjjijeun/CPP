@@ -1,0 +1,5 @@
+﻿  string1.cpp
+C:\code\CPP\problemSTRING\string1.cpp(16,20): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\code\CPP\problemSTRING\string1.cpp(39,35): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\CPP\problemSTRING\string1.cpp(89): warning C4717: 'operator<<': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  problemSTRING.vcxproj -> C:\code\CPP\problemSTRING\x64\Debug\problemSTRING.exe
